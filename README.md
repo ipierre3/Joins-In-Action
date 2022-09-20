@@ -1,4 +1,4 @@
-# JoinsInAction_CS_SQL_Starter
+# JoinsInAction_CS_SQL
 
 Tech Stack: SQL, MySQL, MySQL Workbench, ERDs, DrawSQL
 
@@ -33,7 +33,6 @@ Make sure you have covered enough content to meet the prerequisites before start
 9. In the window that pops up, choose the `joins_in_action_starter.sql` file from the starter files, then click **Open**.
 10. You should see the script open in MySQL Workbench with all of the problems written out in SQL comments.
 11. Write your queries underneath the problem they relate to, and execute those queries to check that they give you the expected output!
-
 
 
 ## MAIN STORIES
